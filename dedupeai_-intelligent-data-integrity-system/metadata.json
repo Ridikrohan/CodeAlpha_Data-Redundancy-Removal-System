@@ -1,0 +1,5 @@
+{
+  "name": "DedupeAI: Intelligent Data Integrity System",
+  "description": "A high-performance data management dashboard that uses Gemini AI to detect semantic redundancy, identify false positives, and ensure database accuracy through intelligent validation.",
+  "requestFramePermissions": []
+}
