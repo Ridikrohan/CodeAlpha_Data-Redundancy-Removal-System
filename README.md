@@ -1,0 +1,1 @@
+This project is a robust data management system designed to maintain the integrity and efficiency of cloud databases. It identifies and classifies data as redundant or false positive, ensuring that only unique and verified entries are stored.
